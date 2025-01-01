@@ -126,7 +126,7 @@ Visualize data trends and model predictions interactively.
 
 Demonstration
 
-A detailed demonstration of the project's functionality, including web scraping and data preprocessing, is available on YouTube: Watch Here.
+A detailed demonstration of the project's functionality, including web scraping and data preprocessing, is available on YouTube: https://youtu.be/Nwj6vuNLcwU
 
 Acknowledgments
 
