@@ -30,7 +30,7 @@ Source: sim.csb.gov.tr
 
 Steps in Web Scraping:
 
-Select city (e.g., Ankara).
+Select city (e.g., İstanbul).
 
 Configure date ranges and data parameters.
 
@@ -146,6 +146,10 @@ Expand scraping to multiple cities and time frames.
 Include additional machine learning models for comparison.
 
 Visualize data trends and model predictions interactively.
+
+Demonstration
+
+A detailed demonstration of the project's functionality, including web scraping and data preprocessing, is available on YouTube: Watch Here.
 
 Acknowledgments
 
