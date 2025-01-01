@@ -74,29 +74,6 @@ Hyperparameter Tuning:
 
 Optimized SVR parameters using grid search for kernel and regularization values.
 
-File Structure
-
-AirPollutionScrapingTraining/
-│
-├── data/                 # Raw and processed data
-│   ├── raw/              # Original scraped data
-│   └── processed/        # Cleaned and preprocessed data
-│
-├── notebooks/            # Jupyter Notebook files
-│   ├── scraping.ipynb    # Web scraping workflow
-│   └── modeling.ipynb    # Machine learning pipeline
-│
-├── src/                  # Source code
-│   ├── scraper.py        # Web scraping script
-│   ├── preprocess.py     # Data preprocessing script
-│   └── train_model.py    # Model training and evaluation
-│
-├── models/               # Saved machine learning models
-│   └── svr_model.pkl     # Best SVR model
-│
-├── README.md             # Project documentation
-└── requirements.txt      # Python dependencies
-
 Results
 
 Model Performance
